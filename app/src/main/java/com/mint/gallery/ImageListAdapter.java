@@ -11,7 +11,6 @@ import android.widget.ImageView;
 import java.util.ArrayList;
 import java.util.List;
 
-import photo.lzy.com.Gallery.R;
 
 /**
  * Created by lushijie on 2018/4/20.

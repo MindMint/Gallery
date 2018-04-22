@@ -19,7 +19,6 @@ import android.widget.ImageView;
 
 import java.lang.ref.WeakReference;
 
-import photo.lzy.com.Gallery.R;
 
 /**
  * Created by lushijie on 2018/4/20.

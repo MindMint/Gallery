@@ -1,4 +1,4 @@
-package photo.lzy.com.myapplication;
+package photo.lzy.com.Gallery;
 
 import org.junit.Test;
 

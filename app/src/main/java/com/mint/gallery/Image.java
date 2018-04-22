@@ -1,4 +1,4 @@
-package photo.lzy.com.myapplication;
+package com.mint.gallery;
 
 /**
  * Created by lushijie on 2018/4/20.

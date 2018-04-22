@@ -1,4 +1,4 @@
-package photo.lzy.com.myapplication;
+package com.mint.gallery;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -18,6 +18,8 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 
 import java.lang.ref.WeakReference;
+
+import photo.lzy.com.Gallery.R;
 
 /**
  * Created by lushijie on 2018/4/20.

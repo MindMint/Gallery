@@ -1,4 +1,4 @@
-package photo.lzy.com.myapplication;
+package com.mint.gallery;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
+
+import photo.lzy.com.Gallery.R;
 
 public class MainActivity extends AppCompatActivity implements ScanHelper.ScanCallback {
     private RecyclerView recyclerView;

@@ -1,4 +1,4 @@
-package photo.lzy.com.myapplication;
+package com.mint.gallery;
 
 import android.content.ContentResolver;
 import android.database.Cursor;
